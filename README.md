@@ -10,4 +10,8 @@ Urmanova Nazerke
 
 Peach team will implement and explain the Undirected Graphs. *Set of vertices connected pairwise by edges* the main definition of graph!
 
+For a better understanding, we also used Adjacency Matrix and Adjacency List representations of a undirected graph.
+
+
+
 Now lets discusses the implementation of Undirected Graph using Java Programming Language!
